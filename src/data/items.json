@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "name": "Raspberry Pi4",
+    "price": 120.99,
+    "imgUrl": "/imgs/pi4.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Arduino Project",
+    "price": 91.20,
+    "imgUrl": "/imgs/ardu.jpg"
+
+  },
+  {
+    "id": 3,
+    "name": "Raspberry Pi Zero",
+    "price": 71.95,
+    "imgUrl": "/imgs/pizero.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Flipper Zero",
+    "price": 111.40,
+    "imgUrl": "/imgs/flipper.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Steamdeck",
+    "price": 500.05,
+    "imgUrl": "/imgs/st.png"
+  },
+  {
+    "id": 6,
+    "name": "Samsung SSD",
+    "price": 30.75,
+    "imgUrl": "/imgs/ssd.jpg"
+  }
+] 
