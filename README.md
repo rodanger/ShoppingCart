@@ -7,6 +7,6 @@ How to Execute this Project :
 
 cd project 
 
-npm run dev / To run the project
-npm run build -- tsc && vite build
-npm run preview -- vite preview
+npm run dev => To run the project
+npm run build => tsc && vite build
+npm run preview => vite preview
